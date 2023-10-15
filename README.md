@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cesarcasg
 - 👀 I’m interested in Coding, computers, videogames and music. Software Engineer.
 - 🌱 I’m currently learning react/javascript
-- 💞️ I’m looking to collaborate on open source projects. Drupal
+- 💞️ I’m looking to collaborate on open source projects. Drupal 6-10
 - 📫 How to reach me ... cesarcasg@gmail.com
 - PHP, MySQL, CSS, lando, Drupal 6-9 [10]
 
